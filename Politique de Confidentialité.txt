@@ -1,0 +1,44 @@
+Politique de Confidentialité de Black Bear
+
+1. Données Collectées
+
+Lors de l'utilisation de Black Bear, certaines données peuvent être collectées pour assurer son bon fonctionnement, notamment :
+
+Identifiants Discord (ID utilisateur, ID serveur, ID message)
+
+Messages envoyés au bot (dans le cadre des commandes)
+
+Aucune donnée personnelle sensible n'est collectée ou stockée.
+
+2. Utilisation des Données
+
+Les données collectées sont utilisées uniquement pour :
+
+Assurer le bon fonctionnement du bot
+
+Améliorer l'expérience utilisateur
+
+Résoudre d'éventuels problèmes techniques
+
+Elles ne sont ni vendues ni partagées avec des tiers.
+
+3. Conservation des Données
+
+Les données sont conservées pour une durée limitée et supprimées dès qu'elles ne sont plus nécessaires.
+
+4. Sécurité des Données
+
+Des mesures de sécurité sont mises en place pour protéger les données contre tout accès non autorisé ou toute fuite.
+
+5. Droits des Utilisateurs
+
+Vous pouvez demander la suppression de vos données en contactant l'administrateur du bot via [moyen de contact].
+
+6. Modifications de la Politique de Confidentialité
+
+Cette politique peut être mise à jour à tout moment. Il est recommandé de la consulter régulièrement pour être informé des changements.
+
+7. Contact
+
+Pour toute question ou demande concernant la confidentialité des données, contactez-nous via [discord](https://discord.gg/gr5HH7Drm3).
+

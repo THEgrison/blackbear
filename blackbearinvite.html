@@ -3,49 +3,49 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Installation du Bot Discord</title>
+    <title>Mon Site</title>
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
         body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 50px;
-            background-color: #000000;
+            background: url('https://raw.githubusercontent.com/THEgrison/blackbear/refs/heads/main/Frame%2055.png') no-repeat center center fixed;
+            background-size: cover;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
         }
-        .container {
-            background: black;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            max-width: 600px;
-            margin: auto;
+        .logo {
+            width: 200px;
+            height: 200px;
         }
-        h1 {
-            color: #5865F2;
-        }
-        p {
-            font-size: 18px;
-            color: white;
-        }
-        .link {
-            display: inline-block;
+        .btn {
             margin-top: 20px;
-            padding: 10px 20px;
-            background-color: #5865F2;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
+            padding: 15px 30px;
             font-size: 18px;
+            color: black;
+            background: transparent;
+            border: 3px solid black;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: background 0.3s, color 0.3s;
+            text-decoration: none;
+            font-weight: bold;
         }
-        .link:hover {
-            background-color: #4752C4;
+        .btn:hover {
+            background: black;
+            color: white;
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Installation de Black Bear</h1>
-        <p>Utilisez notre lien d'installation fourni</p>
-        <a class="link" href="https://discord.com/oauth2/authorize?client_id=1099734590756761761&permissions=8&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2Fgr5HH7Drm3&integration_type=0&scope=bot" target="_blank">Installer le Bot</a>
-    </div>
+    <a href="https://discord.com/oauth2/authorize?client_id=1099734590756761761&permissions=8&response_type=code&redirect_uri=https%3A%2F%2Fdiscord.gg%2Fgr5HH7Drm3&integration_type=0&scope=bot" class="btn">ADD TO DISCORD</a>
 </body>
 </html>
